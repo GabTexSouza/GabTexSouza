@@ -1,3 +1,21 @@
+# Olá, eu sou Gabriel Teixeira
+
+Atualmente atuo como Estagiário em Operações - Serviços na GE HealthCare, com foco em automações, melhoria de processos, gestão de dados operacionais e soluções de BI.
+
+Tenho experiência prática com SQL, Power BI, Excel avançado, Python, Power Automate, Salesforce Data Loader, SAP, Smartsheet, Office Scripts e dashboards voltados à tomada de decisão.
+
+Sou formado em Administração, estou me especializando em Análise de Dados/BI e possuo CPA-20 ativa. Meu objetivo é migrar definitivamente para posições de Analista de Dados, BI Analyst e Analytics, com interesse especial no setor financeiro.
+
+## Principais competências
+
+- SQL para consultas, joins, tratamento e análise de dados
+- Python para análise exploratória, limpeza de dados e automação
+- Power BI para dashboards, KPIs e visualização executiva
+- Excel avançado para análises, controles e modelagem de dados
+- Power Automate e Office Scripts para automação de processos
+- SAP, Salesforce Data Loader e Smartsheet para rotinas operacionais e gestão de dados
+- Inglês fluente para reuniões e comunicação internacional
+
 ## Projetos em desenvolvimento
 
 Estou construindo um portfólio com projetos novos, organizados para demonstrar competências essenciais em Análise de Dados, BI e Analytics, com foco em problemas reais de negócio.
@@ -56,3 +74,14 @@ Principais entregas:
 - Geração de base consolidada
 - Automação com Python
 - Documentação do fluxo de dados
+
+## Objetivo profissional
+
+Estou construindo um portfólio técnico com projetos voltados a problemas reais de negócio, utilizando SQL, Python, Power BI, estatística e automação de dados.
+
+Busco atuar como Analista de Dados, BI Analyst ou Analytics, contribuindo com análises que apoiem decisões de negócio, melhorem processos e gerem eficiência operacional.
+
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/gabriel-teixeira-048045217
+- E-mail: gabriel.012teixeiraz@gmail.com
